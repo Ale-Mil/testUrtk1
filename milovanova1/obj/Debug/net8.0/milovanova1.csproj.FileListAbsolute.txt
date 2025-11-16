@@ -1,0 +1,14 @@
+D:\pythonn\c_sharp\milovanova1\milovanova1\bin\Debug\net8.0\milovanova1.exe
+D:\pythonn\c_sharp\milovanova1\milovanova1\bin\Debug\net8.0\milovanova1.deps.json
+D:\pythonn\c_sharp\milovanova1\milovanova1\bin\Debug\net8.0\milovanova1.runtimeconfig.json
+D:\pythonn\c_sharp\milovanova1\milovanova1\bin\Debug\net8.0\milovanova1.dll
+D:\pythonn\c_sharp\milovanova1\milovanova1\bin\Debug\net8.0\milovanova1.pdb
+D:\pythonn\c_sharp\milovanova1\milovanova1\obj\Debug\net8.0\milovanova1.GeneratedMSBuildEditorConfig.editorconfig
+D:\pythonn\c_sharp\milovanova1\milovanova1\obj\Debug\net8.0\milovanova1.AssemblyInfoInputs.cache
+D:\pythonn\c_sharp\milovanova1\milovanova1\obj\Debug\net8.0\milovanova1.AssemblyInfo.cs
+D:\pythonn\c_sharp\milovanova1\milovanova1\obj\Debug\net8.0\milovanova1.csproj.CoreCompileInputs.cache
+D:\pythonn\c_sharp\milovanova1\milovanova1\obj\Debug\net8.0\milovanova1.dll
+D:\pythonn\c_sharp\milovanova1\milovanova1\obj\Debug\net8.0\refint\milovanova1.dll
+D:\pythonn\c_sharp\milovanova1\milovanova1\obj\Debug\net8.0\milovanova1.pdb
+D:\pythonn\c_sharp\milovanova1\milovanova1\obj\Debug\net8.0\milovanova1.genruntimeconfig.cache
+D:\pythonn\c_sharp\milovanova1\milovanova1\obj\Debug\net8.0\ref\milovanova1.dll
